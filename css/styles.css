@@ -226,22 +226,6 @@ button {
   margin: 0 auto;
 }
 
-/* .bg-wrapper { 
-  background-image: linear-gradient(
-      to bottom,
-      rgba(46, 47, 66, 0.7),
-      rgba(46, 47, 66, 0.7)
-    ),
-    url(../images/people-office.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  max-width: 1440px;
-  padding-top: 188px;
-  padding-bottom: 188px;
-  margin: 0 auto;
- } */
-
 .page-title {
   font-size: 56px;
   font-weight: 700;
